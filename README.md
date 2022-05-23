@@ -14,8 +14,8 @@
   
   ```
   {
-   "Nombre":"Carina",
-   "Apellido":"Fontan",
+   "Nombre":"Carlos",
+   "Apellido":"López",
    "NroEstudiante":123456
   }
   ```
@@ -24,9 +24,9 @@
     ```
     {
      "Id":1,
-     "Nombre":"Carina",
-     "Apellido":"Fontan",
-     "NroEstudiante":123456
+     "Nombre":"Carlos",
+     "Apellido":"López",
+     "NroEstudiante":1234567
     }
     ```
   - DELETE http://localhost:5000/api/estudiante/[id] - elimina el estudiante con id = [id]
